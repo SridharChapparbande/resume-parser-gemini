@@ -29,5 +29,3 @@ To run the notebook, you need a Gemini API key from [Google AI Studio](https://a
 import google.generativeai as genai
 genai.configure(api_key="your_api_key_here")
 
-import google.generativeai as genai
-genai.configure(api_key="your_api_key_here")
